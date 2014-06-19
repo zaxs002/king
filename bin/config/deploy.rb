@@ -32,7 +32,7 @@ require 'bundler/capistrano'
 #############################################
  
 GITHUB_REPOSITORY_NAME = 'king'
-LINODE_SERVER_HOSTNAME = 'li461-124.members.linode.com'
+LINODE_SERVER_HOSTNAME = 'li461-124'
  
 #############################################
 #############################################
